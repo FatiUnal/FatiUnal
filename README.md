@@ -3,8 +3,6 @@
 <!--
 **FatiUnal/FatiUnal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 # 💫 About Me:
 I'm currently learning <br>Spring Boot<br>Hibernate<br>JPA<br>ReactJS<br> <br>                                         <br>
 
